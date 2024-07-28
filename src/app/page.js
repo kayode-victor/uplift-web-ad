@@ -43,6 +43,7 @@ import semovita from "../../public/semovita.png";
 import milo3in1 from "../../public/milo3in1.png";
 import danomilk from "../../public/danomilk.png";
 import peakmilk from "../../public/peakmilk.png";
+import Link from "next/link";
 
 const productdata = [
   {
@@ -452,7 +453,12 @@ export default function Home() {
             <div className="text-white uppercase flex flex-col items-start gap-2">
               <div className="flex items-center py-3">
                 <FaWhatsapp className="mr-4 text-2xl" />
-                <p className="text-xl">09130912078</p>
+                <Link
+                  className="text-xl hover:underline underline-offset-4"
+                  href="https://chat.whatsapp.com/LmSNn2ZFTKi3tHQdRl5LG4 "
+                >
+                  Uplift information
+                </Link>
               </div>
             </div>
             <div className="text-4xl font-extrabold text-secondary animate-pulse ease-in-out duration-300">
