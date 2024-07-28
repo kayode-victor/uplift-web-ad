@@ -35,7 +35,7 @@ import vegetableoil from "../../public/vegetableoil.png";
 import indomitable70g from "../../public/indomitable70g.png";
 import indomitable70gpack from "../../public/indomitable70gpack.png";
 import indomiesuper from "../../public/indomiesuper.png";
-import indomiesuperpack from "../../public/indomiesuperpack.png";
+import indomiesuperpack from "../../public/Indomiesuperpack.png";
 import salt from "../../public/salt.png";
 import sugar from "../../public/sugar.png";
 import milo from "../../public/milo.png";
