@@ -202,7 +202,7 @@ const iconConfigs = [
   {
     icon: FaTruck,
     name: "convenience",
-    description: "Easy online ordering with delivery to your doorstep.",
+    description: "Easy online ordering with delivery to your pickup location.",
   },
   {
     icon: FaUsers,
@@ -241,7 +241,8 @@ export default function Home() {
     },
     {
       title: "Enjoy",
-      description: "Receive your fresh groceries delivered to your home.",
+      description:
+        "Receive your fresh groceries delivered to your pickup location.",
     },
   ];
 
